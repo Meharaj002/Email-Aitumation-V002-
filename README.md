@@ -1,5 +1,5 @@
-#Make sure to give the file & folder address properly
-\n
-#make the addresses gobal 
-'\n'
+#Make sure to give the file & folder address properly\
+\
+#make the addresses gobal\
+\
 #pip install all imported modules 
